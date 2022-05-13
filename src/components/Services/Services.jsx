@@ -25,7 +25,7 @@ function Services() {
               className="col-lg-3 col-sm-6 wow fadeInUp"
               data-wow-delay="0.1s"
             >
-              <div className="service-item rounded pt-3">
+              <div className="service-item rounded pt-3 shadow">
                 <div className="p-4">
                   <FontAwesomeIcon
                     icon={faUserTie}
@@ -46,7 +46,7 @@ function Services() {
               className="col-lg-3 col-sm-6 wow fadeInUp"
               data-wow-delay="0.3s"
             >
-              <div className="service-item rounded pt-3">
+              <div className="service-item rounded pt-3 shadow">
                 <div className="p-4">
                   <FontAwesomeIcon
                     icon={faUtensils}
@@ -66,7 +66,7 @@ function Services() {
               className="col-lg-3 col-sm-6 wow fadeInUp"
               data-wow-delay="0.6s"
             >
-              <div className="service-item rounded pt-3">
+              <div className="service-item rounded pt-3 shadow">
                 <div className="p-4">
                   <FontAwesomeIcon
                     icon={faCartPlus}
@@ -82,7 +82,7 @@ function Services() {
             </div>
             {/* card4 */}
             <div className="col-lg-3 col-sm-6 wow fadeInUp">
-              <div className="service-item rounded-pt-3">
+              <div className="service-item rounded-pt-3 shadow">
                 <div className="p-4">
                   <FontAwesomeIcon
                     icon={faHeadset}
