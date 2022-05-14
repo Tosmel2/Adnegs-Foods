@@ -9,7 +9,7 @@ function Navbar() {
       <div className="container-xxl position-relative p-0">
         <nav
           className="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5
-        py-3 py-lg-0 sticky-top overflow-hidden"
+        py-3 py-lg-0 sticky-lg-top"
         >
           {/* Product Brand */}
           <Link to="/" className="navbar-brand p-3">
